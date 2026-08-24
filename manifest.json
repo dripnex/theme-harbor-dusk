@@ -1,0 +1,7 @@
+{
+  "id": "theme-harbor-dusk",
+  "name": "Harbor Dusk",
+  "version": "0.1.0",
+  "description": "Coastal evening palette for long writing sessions.",
+  "main": "dist/index.js"
+}

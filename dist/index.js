@@ -35,7 +35,7 @@ const TOKENS = {
 module.exports = {
   id: 'theme-harbor-dusk',
   name: 'Harbor Dusk',
-  version: '0.1.0',
+  version: '0.1.1',
   description: 'Coastal evening palette for long writing sessions.',
 
   activate(context) {
